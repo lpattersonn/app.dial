@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Vediai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7E713B26F5D4EFB8BD5510ED3D6D609 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C655C632B37469BA9FB26F41621C7C7 }}
           package: .
